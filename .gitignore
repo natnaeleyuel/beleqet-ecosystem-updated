@@ -17,10 +17,8 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 
-coverage/
-.cache/
-.vercel
-*.tsbuildinfo
+# beleqend_jobs.sql 
 beleqend_jobs.sql
 users_export.json
-import-wp-users.ts
+scripts/
+.agents/
